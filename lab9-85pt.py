@@ -15,4 +15,4 @@ for item in myList:
         print item
 
 # This should print [102,101,103,105]
-print myList
+
